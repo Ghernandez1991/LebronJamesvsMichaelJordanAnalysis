@@ -9,10 +9,10 @@ We compare common statistics, as well as creating a number of visualzations.
 
 Several conclusions can be drawn. 
 
-1-Michael Jordan was far better offensive player when measure their peak performance. 
+1-Michael Jordan was a far better offensive player when measuring their peak performance. 
 
 
-2-Lebron has had a longer career, but never quite reached the highs of Michael. 
+2-Lebron has had a longer career, but never quite reached the heights of Michael. 
 
 
 3-Both players are very good defensively.
