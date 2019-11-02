@@ -20,4 +20,4 @@ Several conclusions can be drawn.
 
 4- Michael had two very distinct periods of his career, before his first retirement and after. 
 
-![Alt text](Images/Per_14years.PNG?raw=true "Optional Title")
+![Alt text](Images/PER_14years.PNG?raw=true "Optional Title")
