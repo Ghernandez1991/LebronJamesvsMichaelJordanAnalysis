@@ -22,6 +22,8 @@ Several conclusions can be drawn.
 
 ![Alt text](Images/PER_14years.png?raw=true "Optional Title")
 
+Career averages are in the red(Lebro) and blue(Jordan) vertical lines. 
+
 ![Alt text](Images/OINDEX_AGE.png?raw=true "Optional Title")
 
 
