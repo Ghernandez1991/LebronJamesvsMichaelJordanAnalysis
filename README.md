@@ -1,4 +1,4 @@
-# LebronJamesvsMichaelJordanAnalysis
+# Lebron James vs Michael Jordan Analysis
 
 
 This repository takes a look at the careers of Michael Jordan and Lebron James. 
